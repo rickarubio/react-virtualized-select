@@ -1,15 +1,12 @@
-# React Virtualized Select
+# @rickarubio React Virtualized Select
 
-![NPM version](https://img.shields.io/npm/v/react-virtualized-select.svg?style=flat)
-![NPM license](https://img.shields.io/npm/l/react-virtualized-select.svg?style=flat)
-![NPM total downloads](https://img.shields.io/npm/dt/react-virtualized-select.svg?style=flat)
-![NPM monthly downloads](https://img.shields.io/npm/dm/react-virtualized-select.svg?style=flat)
-[![PayPal donate button](https://img.shields.io/badge/paypal-donate-lightgray.svg?style=flat)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5CVMYQKVPZC72)
-[![Patreon donate button](https://img.shields.io/badge/patreon-donate%20once-lightgray.svg?style=flat)](https://www.patreon.com/user?u=2979769)
+This package is a fork of [https://github.com/bvaughn/react-virtualized-select](https://github.com/bvaughn/react-virtualized-select).
 
-### Demos available here: http://bvaughn.github.io/react-virtualized-select/
+Specs and code may change at any moment.
 
-![react-virtualized-select example](https://cloud.githubusercontent.com/assets/29597/14285960/46d733a6-fb02-11e5-884a-e349eb462704.gif)
+DO **NOT******** USE IN PRODUCTION!
+
+I mainly forked to have compatability with react-select v1.0.0-rc.10 for a very specific use case.
 
 ## Getting started
 
