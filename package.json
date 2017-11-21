@@ -1,5 +1,5 @@
 {
-  "name": @rickarubio/rickarubio-"react-virtualized-select",
+  "name": "@rickarubio/rickarubio-react-virtualized-select",
   "version": "4.0.0",
   "description": "Customized version of react-select based on bvaughn/react-virtualized-select",
   "main": "dist/commonjs/index.js",
